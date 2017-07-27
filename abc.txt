@@ -2,3 +2,7 @@ Hello welcome to Git file.
 123456789
 sfddjyf 
 meergsfb 
+<<<<<<< HEAD
+=======
+modified text..................
+>>>>>>> e32e8e2d8bdd6b9c536f393fa5e056b38136ee69

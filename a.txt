@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 sdsd
 clear
 this is a.txt file 
 11 12 13 14 15 16
 21 22 23 24 25 26 27 28 29
+=======
+
+>>>>>>> e32e8e2d8bdd6b9c536f393fa5e056b38136ee69
