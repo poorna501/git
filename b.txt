@@ -1,0 +1,7 @@
+fsdmfgd
+<<<<<<< HEAD
+
+
+This is b.text file..........
+=======
+>>>>>>> e32e8e2d8bdd6b9c536f393fa5e056b38136ee69
